@@ -74,9 +74,31 @@ Before you begin, make sure you have:
 
 ---
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```txt
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 ```
+
+### Install Dependencies
+
+```txt
+npm install
+```
+
+This will install all required packages listed in package.json.
+
+### Configure Environment Variables
+
+```txt
+DAEMO_AGENT_API_KEY=your_daemo_agent_api_key
+```
+
+### Start the Service (Development)
+
+```txt
+npm run dev
+```
+
+
