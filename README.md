@@ -1,4 +1,4 @@
-# 🚀 Daemo AI Service — Node.js / TypeScript Agent
+# Daemo AI Service — Node.js / TypeScript Agent
 
 > A deterministic, production-grade AI service built with **Daemo AI** that safely connects LLMs to real code, APIs, and data — without hallucinations or unsafe execution.
 
@@ -54,4 +54,27 @@ Daemo acts as a **governance and execution layer** between the LLM and your code
 ├── tsconfig.json
 └── README.md
 
+## Installation Guide
+
+Follow the steps below to run the Daemo service locally.
+
+---
+
+### Prerequisites
+
+Before you begin, make sure you have:
+
+- **Node.js v18 or higher**
+  ```bash
+  node -v
+- **npm** (comes with Node.js)
+- A valid **Daemo Agent API Key**
+
+---
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
 
