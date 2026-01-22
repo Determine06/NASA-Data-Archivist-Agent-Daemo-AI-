@@ -53,7 +53,8 @@ Daemo acts as a **governance and execution layer** between the LLM and your code
 ├── package-lock.json
 ├── tsconfig.json
 └── README.md
-```txt
+
+```
 
 ## Installation Guide
 
@@ -75,7 +76,7 @@ Before you begin, make sure you have:
 
 ### 1️⃣ Clone the Repository
 
-```bash
+```txt
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-
+```
